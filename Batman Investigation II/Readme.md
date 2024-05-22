@@ -78,6 +78,8 @@ The solution as well as the flag can be found in the same folder, but it's advis
 ### Contact
 
 [Azr43lKn1ght](https://twitter.com/Azr43lKn1ght)
+
 Chief Maintainer and Author
+
 DFIR Labs
 
