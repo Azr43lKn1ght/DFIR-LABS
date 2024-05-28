@@ -12,13 +12,18 @@ Though the final goal of the challenges is CTF-styled flags, most of the challen
 
 | **Chall-Name**            | **Difficulty** | **Author(s)**                                         |
 | ---                       | ---            | ---                                                   |
+| Gotham Hustle             | Easy           | Azr43lKn1ght                                          |
 | The Trinity Of Secrets    | Easy           | rudraagh, kr4z31n, __ m1m1 __                         |
+| 2-layer security          | Easy           | bquanman                                              |
+| Winserpart                | Easy           | Azr43lKn1ght,jl_24, gh0stkn1ght, sp3p3x               |
 | Verboten                  | Medium         | sp3p3x, jl_24, gh0stkn1ght, hrippi.x_                 |
 | Covid Crime Scenario      | Medium         | ws1004                                                |
-| The Malware Crusade       | Medium         | Azr43lKn1ght, 5h4rrk, sp3p3x, jl_24 , gh0stkn1ght     |
-| ReAL File System          | Hard           | 5h4rrk                                                |
+| The Malware Crusade       | Medium         | Azr43lKn1ght, sp3p3x, jl_24 , gh0stkn1ght, 5h4rrk     |
 | Compromised               | Hard           | Abdelrhman Shaban                                     |
+| ReAL File System          | Hard           | 5h4rrk                                                |
+| Stealth                   | Hard           | bquanman                                              |
 | Batman Investigation I    | Hard           | Azr43lKn1ght                                          |
+| Hidden Gem Mixtape        | Hard           | bquanman                                              |
 | Batman Investigation II   | Hard           | Azr43lKn1ght                                          |
 | Batman Investigation III  | Hard           | Azr43lKn1ght                                          |
 | Batman Investigation IV   | Hard           | Azr43lKn1ght, jl_24, sp3p3x, gh0stkn1ght              |
