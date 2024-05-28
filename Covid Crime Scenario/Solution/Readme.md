@@ -1,0 +1,1 @@
+#only look into flag.txt if solved the challenge or to verify the flag!!

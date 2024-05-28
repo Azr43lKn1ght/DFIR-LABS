@@ -12,9 +12,12 @@ Though the final goal of the challenges is CTF-styled flags, most of the challen
 
 | **Chall-Name**            | **Difficulty** | **Author(s)**                                         |
 | ---                       | ---            | ---                                                   |
+| The Trinity Of Secrets    | Easy           | rudraagh, kr4z31n, __ m1m1 __                         |
 | Verboten                  | Medium         | sp3p3x, jl_24, gh0stkn1ght, hrippi.x_                 |
 | Covid Crime Scenario      | Medium         | ws1004                                                |
 | The Malware Crusade       | Medium         | Azr43lKn1ght, 5h4rrk, sp3p3x, jl_24 , gh0stkn1ght     |
+| ReAL File System          | Hard           | 5h4rrk                                                |
+| Compromised               | Hard           | Abdelrhman Shaban                                     |
 | Batman Investigation I    | Hard           | Azr43lKn1ght                                          |
 | Batman Investigation II   | Hard           | Azr43lKn1ght                                          |
 | Batman Investigation III  | Hard           | Azr43lKn1ght                                          |
