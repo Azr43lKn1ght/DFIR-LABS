@@ -16,7 +16,7 @@ Though the final goal of the challenges is CTF-styled flags, most of the challen
 | Trinity Of Secrets        | Easy           | rudraagh, kr4z31n, __ m1m1 __                         |
 | 2-layer security          | Easy           | bquanman                                              |
 | Winserpart                | Easy           | Azr43lKn1ght,jl_24, gh0stkn1ght, sp3p3x               |
-| Kn1ghtflr43               | Medium         | kr4z31n, __ m1m1 __, rudraagh                         |
+| Kn1ghtfl4r3               | Medium         | kr4z31n, __ m1m1 __, rudraagh                         |
 | Verboten                  | Medium         | sp3p3x, jl_24, gh0stkn1ght, hrippi.x_                 |
 | Covid Crime Scenario      | Medium         | ws1004                                                |
 | The Malware Crusade       | Medium         | Azr43lKn1ght, sp3p3x, jl_24 , gh0stkn1ght, 5h4rrk     |
@@ -29,7 +29,7 @@ Though the final goal of the challenges is CTF-styled flags, most of the challen
 | Kn1ghtF4LL                | Hard           | Azr43lKn1ght, sp3p3x, jl_24, gh0stkn1ght              |
 | Batman Investigation III  | Hard           | Azr43lKn1ght                                          |
 | Kn1ghtw4r3                | Hard           | Azr43lKn1ght, gh0stkn1ght, jl_24, sp3p3x, hrippi.x_   |
-| Kn1ghtmr43                | Hard           | Azr43lKn1ght                                          |
+| Kn1ghtm4r3                | Hard           | Azr43lKn1ght                                          |
 | Batman Investigation IV   | Hard           | Azr43lKn1ght, jl_24, sp3p3x, gh0stkn1ght              |
 
 ## Feedback/ Suggestions
