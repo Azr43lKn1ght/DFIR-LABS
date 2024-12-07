@@ -1,0 +1,1 @@
+https://tryhackmyoffsecbox.github.io/Target-Machines-WriteUp/blog/2024qwbs8%20Master%20of%20DFIR/

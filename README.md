@@ -24,13 +24,15 @@ Though the final goal of the challenges is CTF-styled flags, most of the challen
 | ReAL File System          | Hard           | 5h4rrk                                                |
 | Stealth                   | Hard           | bquanman                                              |
 | Batman Investigation I    | Hard           | Azr43lKn1ght                                          |
+| Master of DFIR - Phishing | Hard           | crazyman, F0rest, yuro                                |
+| Master of DFIR - Coffee   | Hard           | crazyman, F0rest                                      |
 | Hidden Gem Mixtape        | Hard           | bquanman                                              |
-| Batman Investigation II   | Hard           | Azr43lKn1ght                                          |
 | Kn1ghtF4LL                | Hard           | Azr43lKn1ght, sp3p3x, jl_24, gh0stkn1ght              |
-| Batman Investigation III  | Hard           | Azr43lKn1ght                                          |
-| Kn1ghtw4r3                | Hard           | Azr43lKn1ght, gh0stkn1ght, jl_24, sp3p3x, hrippi.x_   |
-| Kn1ghtm4r3                | Hard           | Azr43lKn1ght                                          |
-| Batman Investigation IV   | Hard           | Azr43lKn1ght, jl_24, sp3p3x, gh0stkn1ght              |
+| Batman Investigation II   | Insane         | Azr43lKn1ght                                          |
+| Batman Investigation III  | Insane         | Azr43lKn1ght                                          |
+| Kn1ghtw4r3                | Insane         | Azr43lKn1ght, gh0stkn1ght, jl_24, sp3p3x, hrippi.x_   |
+| Kn1ghtm4r3                | Insane         | Azr43lKn1ght                                          |
+| Batman Investigation IV   | Insane         | Azr43lKn1ght, jl_24, sp3p3x, gh0stkn1ght              |
 
 ## Feedback/ Suggestions
 
