@@ -1,5 +1,5 @@
 # Compromised
-## Difficulty: `Hard`
+## Difficulty: `Medium`
 
 ```
                                                                                ▄▄                        ▄▄  
