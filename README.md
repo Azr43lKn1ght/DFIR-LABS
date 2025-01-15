@@ -35,7 +35,7 @@ Individuals are strongly advised against executing any executables or binaries p
 | [Famous AMOS](Famous%20AMOS/)             | Medium           | warlocksmurf                                     |
 | [ReAL File System](ReAL%20File%20System/)           | Hard           | 5h4rrk                                                |
 | [Stealth](Stealth/)                   | Hard           | bquanman                                              |
-| [Thugs on the boat](Thugs%20on%20the%20boat/)        | Hard           | bquanman              |
+| [Thugs on a boat](Thugs%20on%20a%20boat/)        | Hard           | bquanman              |
 | [Batman Investigation I](Batman%20Investigation%20I/)   | Hard           | Azr43lKn1ght                                          |
 | [Master of DFIR - Phishing](Master%20of%20DFIR%20-%20Phishing/) | Hard           | crazyman, F0rest, yuro                           |
 | [Master of DFIR - Coffee](Master%20of%20DFIR%20-%20Coffee/)   | Hard           | crazyman, F0rest                                    |
