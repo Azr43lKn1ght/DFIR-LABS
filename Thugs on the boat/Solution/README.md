@@ -1,0 +1,1 @@
+you have to identify the C2 framework and decrypt the traffic with help of the transferred information in the network and minidump file. 
