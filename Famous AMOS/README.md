@@ -23,8 +23,8 @@ Note: This challenge doesn't have any questions but the flag itself!
 
 
 ## Handout
-+ [Primary Link](https://drive.google.com/file/d/1Uib5eVg9fwilE638Af3cMMMvFHmI9Pby/view?usp=drive_link)
-+ [Mirror Link](https://mega.nz/file/zfoz3LrI#iB9KuWr18dd-_LCYZisBggo1VPw6-VkCk8jG7RCiNTA)
++ [Primary Link](https://drive.google.com/file/d/1WiXXlmHcpgOfME4mjnbqH_xVF8ho3JFu/view?usp=drive_link)
++ [Mirror Link](https://mega.nz/file/jHASjRTY#yURI9bvVSGC8ZNZ-qGKn2qyPHmwJ3osuvH_VJaF0h2Y)
 
 `Flag format: EQCTF{...}`
 
