@@ -33,6 +33,7 @@ Individuals are strongly advised against executing any executables or binaries p
 | [The Malware Crusade](The%20Malware%20Crusade/)      | Medium         | Azr43lKn1ght, sp3p3x, jl_24 , gh0stkn1ght, 5h4rrk     |
 | [Compromised](Compromised/)             | Medium           | Abdelrhman Shaban                                     |
 | [Famous AMOS](Famous%20AMOS/)             | Medium           | warlocksmurf                                     |
+| [The Saint Bat](The%20Saint%20Bat/)           | Medium           | Azr43lKn1ght              |
 | [ReAL File System](ReAL%20File%20System/)           | Hard           | 5h4rrk                                                |
 | [Stealth](Stealth/)                   | Hard           | bquanman                                              |
 | [Thugs on a boat](Thugs%20on%20a%20boat/)        | Hard           | bquanman              |

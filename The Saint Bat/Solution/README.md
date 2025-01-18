@@ -1,0 +1,1 @@
+unpack the exe using memory unpacking method and find the encryption function and decrypt the encrypted flag using process's _EPROCESS and loaded keys and salt in memory.
