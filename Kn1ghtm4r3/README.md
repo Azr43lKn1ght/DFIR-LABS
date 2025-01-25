@@ -16,6 +16,8 @@
 
 The Dark Knight wakes up from the Knightmare where the Talons take down the whole Gotham, he finds Jean Paul Valley, The Azrael Knight trying to recover the evidence to bring down the Court of Owls. The Dark Knight was very close to get the ransomware down and decrypt the files but now the evidence disk is corrupted by the talons when they got hold of the batcave for a short time. The Dark Knight has to recover the evidence and bring down the Court of Owls. Can you help him and Azrael recover the evidence and bring down the Court of Owls or will you let the knightmare win?
 
+Note: This challenge doesn't have any questions but the flag itself!
+
 **MD5 Hash**: 0d2f016ebc11ca7d8185cf6a05504b2c  kn1ghtm4r3.7z
 
 `flag format : icc{...}`

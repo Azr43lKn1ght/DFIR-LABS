@@ -29,6 +29,8 @@ As you dig deeper, the flickering lights of your apartment signal an incoming st
 
 Now, as the clock ticks down, you must piece together the clues scattered throughout your system before Gotham falls into chaos. Can you outsmart the darkness and restore the stolen code?
 
+Note: This challenge doesn't have any questions but the flag itself!
+
 **MD5 Hash**: a180fce0b7d10283617575c3a23cf609  kn1ghtfl4r3.zip
 `flag format : icc{...}`
 

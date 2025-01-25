@@ -28,6 +28,8 @@ Monitor Bob is making a plan to take down Jason Todd, The RedHood, but unfortuna
 
 Flag format: `icc{md5sum(crypto-wallet-password)_md5sum(seed.seco)_md5sum(storage.seco)}`
 
+Note: This challenge doesn't have any questions but the flag itself!
+
 **MD5 Hash**: f0066c7d3e2af51a32e4ad7c94fa8589  Kn1ghtF4ll.ad1
 
 

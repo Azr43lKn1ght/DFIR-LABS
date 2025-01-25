@@ -17,6 +17,8 @@
 
 The KnightF4ll3n is Batman Incorporated turned against Batman and Ghostmaker. if we don't take them down, they will take us down. They have encrypted all the files, out of which, one has a contigency plan to Joker. If we don't get this done, Jason will be in danger. We need to decrypt the file and find the contigency plan!
 
+Note: This challenge doesn't have any questions but the flag itself!
+
 **MD5 Hash**: cafec5f1e207c712e61fb4ff066d100c  kn1ghtw4r3.ad1
 `flag format : icc{...}`
 

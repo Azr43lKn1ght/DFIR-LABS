@@ -27,7 +27,7 @@ Note: This challenge doesn't have any questions but the flag itself!
 `Flag format: TRUSTLINE{...}`
 
 ## Author
-- [Abdelrhman Shaban](https://abdelrahme.github.io/)
+- [Abdelrhman](https://abdelrahme.github.io/)
 
 ### Solution
 
