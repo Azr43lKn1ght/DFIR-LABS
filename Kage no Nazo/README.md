@@ -14,7 +14,7 @@
 
 NOTE: All timestamps are in IST.
 
-**Extract File : 7z a -t7z -mx=9 -p 5xULa{DB~1m6ka`) -mhe=on chall.7z chal.ova**
+*** File Password : 5xULa{DB~1m6ka`) ***
 
 ` VM Password : obybZMk!2`
 
