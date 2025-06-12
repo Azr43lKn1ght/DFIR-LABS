@@ -46,9 +46,11 @@ Individuals are strongly advised against executing any executables or binaries p
 | [Batman Investigation II](Batman%20Investigation%20II/)   | Insane         | Azr43lKn1ght                                          |
 | [Batman Investigation III](Batman%20Investigation%20III/)  | Insane         | Azr43lKn1ght                                          |
 | [Kn1ghtw4r3](Kn1ghtw4r3/)              | Insane         | Azr43lKn1ght, gh0stkn1ght, jl_24, sp3p3x, hrippi.x_   |
+| [S4nct1m0ny](S4nct1m0ny/)              | Insane           | gh0stkn1ght              |
 | [Kn1ghtm4r3](Kn1ghtm4r3/)                | Insane         | Azr43lKn1ght                                          |
 | [Batman Investigation IV](Batman%20Investigation%20IV/)    | Insane         | Azr43lKn1ght, jl_24, sp3p3x, gh0stkn1ght              |
-
+| [Kage No Nazo](Kage%20no%20Nazo/)  | Insane         | jl_24 |
+| [Batman Investigation V](Batman%20Investigation%20V/)  | Insane         | Azr43lKn1ght, Kr4z31n |
 > **Note** <br>
 > The difficulty level of each challenge is subjective and may vary based on individual experience and skill level.
 > The challenges are designed to be completed in a specific order, with each challenge building upon the previous one. However, participants are free to attempt the challenges in any order they prefer.

@@ -1,5 +1,5 @@
 # Kn1ghtw4r3
-## Difficulty: `Hard`
+## Difficulty: `Insane`
 
 ```
 

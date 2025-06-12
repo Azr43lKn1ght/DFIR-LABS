@@ -1,5 +1,5 @@
 # Batman Investigation II - Gotham Underground Corruption
-## Difficulty: `Hard`
+## Difficulty: `Insane`
 
 ```
  ▄▄ •       ▄▄▄▄▄ ▄ .▄ ▄▄▄· • ▌ ▄ ·.     ▄• ▄▌ ▐ ▄ ·▄▄▄▄  ▄▄▄ .▄▄▄   ▄▄ • ▄▄▄        ▄• ▄▌ ▐ ▄ ·▄▄▄▄  

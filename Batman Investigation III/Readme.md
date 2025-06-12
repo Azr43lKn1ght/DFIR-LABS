@@ -1,5 +1,5 @@
 # Batman Investigation III - Th3 Sw0rd 0f Azr43l
-## Difficulty: `Hard`
+## Difficulty: `Insane`
 
 ![alt text](image.png)
 

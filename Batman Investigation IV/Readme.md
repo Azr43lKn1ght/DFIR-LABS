@@ -1,5 +1,5 @@
 # Batman Investigation IV - The Last J0ke
-## Difficulty: `Hard`
+## Difficulty: `Insane`
 
 ```
 

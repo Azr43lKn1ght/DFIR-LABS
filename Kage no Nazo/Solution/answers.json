@@ -1,0 +1,21 @@
+{
+    "flag": "bi0sctf{D4mN_y0u_m4d3_1t!0n_y0u7_w4y_t0_b3c0m3_th3_4N6_Gun6415u!!!?}",
+    "1": {"method": "md5", "answer": "HTTPS://FILEBIN.NET/X0L9BA8JML3OQUGY"},
+    "2": {"method": "md5", "answer": "0A1E8B7DB095C9D1A147E357489EFC2D:CDBE50EC6D81BE104531416BA22922F7:361BC8F56F14EABA1BDE49F2CEFF9B73"},
+    "3": {"method": "md5", "answer": "20.193.151.153:1337"},
+    "4": {"method": "md5", "answer": "CHROME:FIREFOX:DISCORD:ANYDESK"},
+    "5": {"method": "mitre",
+        "allowed_ids": [
+            "T1055", "T1014", "T1112", "T1027", "T1564.001", "T1547.001",
+            "T1564.004", "T1564.005", "T1053.005", "T1059.001", "T1036.005",
+            "T1562.001", "T1543.003", "T1055.012", "T1055.001"
+        ]
+    },
+    "6": {"method": "md5", "answer": "REMOTE_DESKTOP_CONNECTION"},
+    "7": {
+        "method": "artifacts",
+        "required_words": ["EVENTLOGS", "PREFETCH", "DEFENDER"]
+    },
+    "8": {"method": "md5", "answer": "D9E0B62548153F132887C39F72BEFCBDF4B453F9C"},
+    "9": {"method": "md5", "answer": "59BD4D3D347C540D955038E837615BE9:C7015783C4729F3E70A132FF5F9784E2"}
+}
