@@ -22,6 +22,8 @@ Peter Parker, the Daily Bugle’s star photographer and secretly Spider-Man, exp
 
 `c962ed1ae53f2003658caa07d47d33eb`
 
+**Evidence File Password**: `TLaf.KdUxFz'So3z`
+
 ### Author
 
 - [gh0stkn1ght](https://twitter.com/mspr75)
