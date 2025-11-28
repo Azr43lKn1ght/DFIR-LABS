@@ -48,7 +48,7 @@ Individuals are strongly advised against executing any executables or binaries p
 | [Kn1ghtF4LL](Kn1ghtF4LL/)              | Hard           | Azr43lKn1ght, sp3p3x, jl_24, gh0stkn1ght              |
 | [Breadcrumbs](Breadcrumbs/)               | Insane           | Abdelrhman                                       |
 | [ DFIR 2025 Ⅱ - fake news](DFIR%202025%20%E2%85%A1%20-%20fake%20news/) | Insane           | crazyman, bquanman, F0rest, yuro |
-| [ DFIR 2025 III - who is spyder](DFIR%202025%20III%20-%20who%20is%20spyder/) | Insane           | crazyman, F0rest |
+| [ DFIR 2025 III - who is spyder](DFIR%202025%20Ⅲ%20-%20who%20is%20spyder/) | Insane           | crazyman, F0rest |
 | [Batman Investigation II](Batman%20Investigation%20II/)   | Insane         | Azr43lKn1ght                                          |
 | [Batman Investigation III](Batman%20Investigation%20III/)  | Insane         | Azr43lKn1ght                                          |
 | [Kn1ghtw4r3](Kn1ghtw4r3/)              | Insane         | Azr43lKn1ght, gh0stkn1ght, jl_24, sp3p3x, hrippi.x_   |
