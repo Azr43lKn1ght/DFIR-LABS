@@ -1,0 +1,13 @@
+{
+    "flag":"r3ctf{65e82a861de3d7726ef517406e3572b0c374a3745ec39f3977cdd21882e20dc5}",
+    "1": "https://gofile.io/d/snrbgl",
+    "2": "851ec4174b5490d53ba4ad06daf8a82a",
+    "3": "FinalizeUpdateConfig",
+    "4": "T1574.001",
+    "5": "GetInstallDetailsPayload",
+    "6": "aes_cbc_89be5373aba9451d8d93e49ea23785b7",
+    "7": "156.238.233.121:8080",
+    "8": "aes_ctr_b07c3644328c8ce428c408ceca9ea23038f2f248f87ceeb03e040aaab07c5638",
+    "9": "aa948510c9e99a2a794eb9f93e448be5",
+    "10": "SecurityUpdate"
+}

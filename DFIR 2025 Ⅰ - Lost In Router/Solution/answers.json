@@ -1,0 +1,9 @@
+{
+    "flag":"r3ctf{5d183d839ac09722d4b1d1553adb5a3bf0839fb787bc2ab72935e99fabbd6cab}",
+    "1": "23.05.4",
+    "2": "156.238.233.47",
+    "3": "CVE-2022-28927",
+    "4": "dropbear",
+    "5": "portal.r3.internal",
+    "6": "nimble-bonbon-d941a8.netlify.app"
+}
