@@ -41,6 +41,7 @@ Individuals are strongly advised against executing any executables or binaries p
 | [Interesting](Interesting/)             | Hard           | k.eii                                              |
 | [Thugs on a boat](Thugs%20on%20a%20boat/)        | Hard           | bquanman              |
 | [Batman Investigation I](Batman%20Investigation%20I/)   | Hard           | Azr43lKn1ght                                          |
+| [Not My Mod Files Bestie](Not%20My%20Mod%20Files%20Bestie/) | Hard           | mooofinnn    |
 | [Master of DFIR - Phishing](Master%20of%20DFIR%20-%20Phishing/) | Hard           | crazyman, F0rest, yuro                           |
 | [Master of DFIR - Coffee](Master%20of%20DFIR%20-%20Coffee/)   | Hard           | crazyman, F0rest                                    |
 | [ReAL File System](ReAL%20File%20System/)           | Hard           | 5h4rrk                                                |
